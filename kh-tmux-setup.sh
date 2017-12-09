@@ -16,7 +16,7 @@ mv ../usr/src/github.com/unixpickle/kahoot-hack/kahoot-flood/main.go ~/kahoot/fl
 mv ../usr/src/github.com/unixpickle/kahoot-hack/kahoot-html/main.go ~/kahoot/html.go
 mv ../usr/src/github.com/unixpickle/kahoot-hack/kahoot-play/main.go ~/kahoot/play.go
 mv ../usr/src/github.com/unixpickle/kahoot-hack/kahoot-profane/main.go ~/kahoot/profane.go
-mv ../usr/src/github.com/unixpickle/kahoot-hack/kahoot-rand/main.go ~/kahoot/rand.go
+mv ../usr/src/github.com/Szymonex0906/kahoot-hack/blob/master/kahoot-rand/main.go ~/kahoot/rand.go
 mv ../usr/src/github.com/unixpickle/kahoot-hack/kahoot-xss/main.go ~/kahoot/xss.go
 mkdir ../usr/etc/profile.d
 echo "export GOPATH=/data/data/com.termux/files/usr" >> ../usr/etc/profile.d/kahoot-hack-config.sh
